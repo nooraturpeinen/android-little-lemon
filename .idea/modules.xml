@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/android-little-lemon.iml" filepath="$PROJECT_DIR$/.idea/android-little-lemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LittleLemon.iml" filepath="$PROJECT_DIR$/.idea/modules/LittleLemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LittleLemon.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LittleLemon.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LittleLemon.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LittleLemon.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LittleLemon.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LittleLemon.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LittleLemon.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LittleLemon.app.unitTest.iml" />
     </modules>
   </component>
 </project>
